@@ -18,9 +18,12 @@ Retail Store Application using Spring Boot to Calculate Discount based on Custom
 
 ## Running JUnit and Coverage Test
 
-1.  Using Eclipse 
+1.  Using Eclipse
+      
       Right click on your project in the Project Explorer then select "Coverage As" > "JUnit Test". Eclipse will run the test and generate a report about the Junit execution as well as the coverage result. 
 
 2.  Using Maven 
+      
       i. Install Maven. 
+      
       ii. Go to the project directory, then run mvn test. Maven will run the test and generate the Junit execution report. Coverage report will be generated at PROJECT_DIRECTORY\target\surefire-reports\
