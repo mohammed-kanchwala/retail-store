@@ -3,7 +3,7 @@ Retail Store Application using Spring Boot to Calculate Discount based on Custom
 
 
 ## Class Diagram
-![Alt text](retail-store-class-diagram.JPG?raw=true "Class Diagram")
+![Alt text](retail-store-class-diagram.jpg?raw=true "Class Diagram")
 
 
 ## Coverage Report
