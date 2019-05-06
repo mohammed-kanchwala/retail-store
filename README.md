@@ -9,10 +9,10 @@ Retail Store Application using Spring Boot to Calculate Discount based on Custom
 
 
 ## Coverage Report
-![Alt text](retail-store-coverage.JPG?raw=true "Coverage Result")
+![Alt text](retail-store-coverage.JPG?raw=true "Coverage Report")
 
 
-## JUnit Execution Result
+## JUnit Execution Report
 ![Alt text](retail-store-junit.JPG?raw=true "JUnit Execution Report")
 
 
