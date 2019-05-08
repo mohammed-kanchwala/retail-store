@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest(classes = RetailStoreApplication.class)
 public class RetailStoreApplicationTests {
 
-	@Test
+	@Before
 	public void contextLoads() {
 		assertTrue(true);
 	}
